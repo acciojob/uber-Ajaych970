@@ -37,6 +37,10 @@ public class Driver {
         return diverId;
     }
 
+    public int setDiverId() {
+        return diverId;
+    }
+
     public void setDiverId(int diverId) {
         this.diverId = diverId;
     }
