@@ -76,7 +76,7 @@ public class Driver {
     @Override
     public String toString() {
         return "Driver{" +
-                "diverId=" + diverId +
+                "driverId=" + driverId +
                 ", mobile='" + mobile + '\'' +
                 ", password='" + password + '\'' +
                 ", tripBookingList=" + tripBookingList +
